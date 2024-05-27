@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sevenajay/tetrisv2:latest
+        image: orpheadya/tetrisv1:13-null
         ports:
         - containerPort: 3000   # Use port 3000
 
